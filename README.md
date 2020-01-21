@@ -74,7 +74,7 @@ This project is under the MIT license. See the [LICENSE]() for more information.
 
 ---
 
-Made with ♥ by Tiago Behenck :wave: [Get in touch!](https://www.linkedin.com/in/lukemorales/)
+Made with ♥ by Tiago Behenck :wave: [Get in touch!](https://www.linkedin.com/in/tiago-behenck-dos-santos/)
 
 [nodejs]: https://nodejs.org/
 [yarn]: https://yarnpkg.com/
